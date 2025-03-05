@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="no">No</string>
+    <string name="enter_question">Enter question</string>
+    <string name="send">Send</string>
+    <string name="yes">Yes</string>
+</resources>
