@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLayouts">
-    <shared>
-      <config />
-    </shared>
-    <layouts>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-        <config>
-          <theme>@style/Theme.Lab4_3</theme>
-        </config>
-      </layout>
-    </layouts>
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db5d170c-a1a4-42ae-8221-e344b7e497b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab3/app/src/main/java/com/example/lab3/InputFragment.kt" afterDir="false" />
+    <list default="true" id="e2f30d41-03ed-4279-a1e6-38feea3b918b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ІП-21 Гарасимів Віктор лаб4.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,46 +16,37 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\garas\.android\avd\Medium_Phone.avd)]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="layoutResourceFile" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2ymlW4w5bD3nYfUTczn6PD1N2AF" />
+  <component name="ProjectId" id="2ys2L6Oa3pvH6i9GPNXR3RQouWe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Android App.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Uni/android/code/lab4_3"
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="lab4_3.app" />
+      <module name="lab4.app" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -140,38 +120,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="db5d170c-a1a4-42ae-8221-e344b7e497b6" name="Changes" comment="" />
-      <created>1750447658051</created>
+      <changelist id="e2f30d41-03ed-4279-a1e6-38feea3b918b" name="Changes" comment="" />
+      <created>1750608900642</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1750447658051</updated>
+      <updated>1750608900642</updated>
     </task>
     <servers />
-  </component>
-  <component name="play_dynamic_filters_status">
-    <option name="appIdToCheckInfo">
-      <map>
-        <entry key="com.example.lab4">
-          <value>
-            <CheckInfo lastCheckTimestamp="1750607527601" />
-          </value>
-        </entry>
-        <entry key="com.example.lab4.test">
-          <value>
-            <CheckInfo lastCheckTimestamp="1750607527600" />
-          </value>
-        </entry>
-        <entry key="com.example.lab4_3">
-          <value>
-            <CheckInfo lastCheckTimestamp="1750597979545" />
-          </value>
-        </entry>
-        <entry key="com.example.lab4_3.test">
-          <value>
-            <CheckInfo lastCheckTimestamp="1750597979546" />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
