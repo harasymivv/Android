@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Конвертер валют</string>
+
+    <string name="enter_amount">Введіть суму</string>
+    <string name="from_currency">З валюти:</string>
+    <string name="to_currency">У валюту:</string>
+    <string name="convert">Конвертувати</string>
+    <string name="loading">Завантаження...</string>
+    <string name="swap_currencies">Поміняти валюти місцями</string>
+
+    <string name="error_empty_amount">Будь ласка, введіть суму для конвертації</string>
+    <string name="error_invalid_number">Неправильний формат числа</string>
+    <string name="error_zero_amount">Сума повинна бути більше нуля</string>
+    <string name="error_network">Помилка мережі</string>
+    <string name="error_conversion">Не вдалося отримати курс валют</string>
+
+    <string name="result_format">%1$s %2$s = %3$s %4$s</string>
+    <string name="rate_format">Курс: 1 %1$s = %2$s %3$s</string>
+    <string name="initial_message">Виберіть валюти та натисніть \'Конвертувати\'</string>
+
+    <string name="info_title">ℹ️ Інформація</string>
+    <string name="info_description">• Курси валют оновлюються в реальному часі\n• Дані надаються ExchangeRate-API\n• Для роботи потрібен доступ до Інтернету</string>
+</resources>
